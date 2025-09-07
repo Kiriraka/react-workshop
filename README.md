@@ -62,18 +62,3 @@
    - Presentational = UI อย่างเดียว (เช่น `TodoForm`, `TodoList`)  
 
 ---
-
-## ✅ Key Takeaways
-- เข้าใจการใช้ **JSX** และ **Component-Based Architecture**  
-- รู้จักการทำงานของ **State & Props**  
-- ตอบสนองผู้ใช้ด้วย **Event Handling**  
-- จัดการ side effects ด้วย **useEffect**  
-- ทำ Mini Project → **To-Do List App** รวมทุกแนวคิด  
-- ฝึก Challenge → Toggle, Edit, useContext, Design Pattern  
-
----
-
-## ▶️ การรันโปรเจกต์
-```bash
-npm install
-npm run dev
