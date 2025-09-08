@@ -8,8 +8,8 @@
     │ ├── Welcome.jsx
     │ ├── Counter.jsx
     │ ├── TodoForm.jsx
-    │ ├── TodoList.jsx #
-    │ ├── TodoItem.jsx #
+    │ ├── TodoList.jsx
+    │ ├── TodoItem.jsx
     │ ├── context/
     │ │ └── TodoContext.jsx
     │ └── main.jsx 
